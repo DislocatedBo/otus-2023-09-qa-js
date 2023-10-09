@@ -2,3 +2,8 @@
 
 Prject description
 Первая правка
+
+## Installation instructions
+- 1
+- 2
+- 3
